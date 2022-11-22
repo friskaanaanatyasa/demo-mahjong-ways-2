@@ -1,13 +1,13 @@
 {
-   "status":false,
+   "status":true,
    "status_check_google":true,
    "start_day_check":"13",
    "end_day_check":"26",
    "check_installation":true,
    "day_of_installation":4,
-   "link_wa":"https://api.whatsapp.com/send/?phone=6281387660864&text&type=phone_number&app_absent=0",
-   "master_url":"https://sinargg.org/register?ref=rtpgacor",
-   "second_url":"https://friskaanaanatyasa.github.io/demo-sweet-bonanza/",
-   "demo_url":"https://friskaanaanatyasa.github.io/demo-sweet-bonanza/",
+   "link_wa":"https://api.whatsapp.com/send/?phone=855717987946&text&type=phone_number&app_absent=0",
+   "master_url":"https://batarabola.com/register?ref=bocoranrtp",
+   "second_url":"https://friskaanaanatyasa.github.io/demo-mahjong-ways-2",
+   "demo_url":"https://friskaanaanatyasa.github.io/demo-mahjong-ways-2",
    "rtp_url":"https://rtpsinargg.com/"
 }
